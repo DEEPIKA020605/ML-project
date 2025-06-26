@@ -71,10 +71,7 @@ streamlit run "C:\Users\Deepika\OneDrive\Documents\ml project\app.py"
 git clone https://github.com/DEEPIKA020605/ML-project.git
 cd ML-project
 
-## Screenshots
-![Screenshot 2025-06-26 192646](https://github.com/user-attachments/assets/7695027e-df7b-4b6c-ac77-2e98e70ecc0b)
-![Screenshot 2025-06-26 192646](https://github.com/user-attachments/assets/cb3d120b-fade-4e6a-bc21-082cfedd2278)
-![Screenshot 2025-06-26 192755](https://github.com/user-attachments/assets/6f9b08ee-9590-4e2f-b6ea-b899de1e8ee7)
+
 
 
 
